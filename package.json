@@ -1,0 +1,12 @@
+{
+  "name": "mernstack",
+  "version": "1.0.0",
+  "description": "MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server":"nodemon server"
+  },
+  "author": "",
+  "license": "MIT"
+}
